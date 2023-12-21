@@ -1,5 +1,3 @@
-Here is a draft GitHub README for this machine learning project:
-
 # Sad or Happy Image Classifier
 
 This is a machine learning project to classify images as sad or happy. It uses a convolutional neural network (CNN) model trained on a dataset of sad and happy images.
