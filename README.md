@@ -28,5 +28,3 @@ The trained model is saved in the `models` folder as `imageclassifier.h5`. It ca
 ## Results
 The model achieved 98% precision and 99.6% accuracy on the test set.
 
-
-Let me know if you would like any changes or have additional sections to add!
